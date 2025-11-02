@@ -10,6 +10,7 @@ Each module includes hands-on work, datasets, and reports.
 3. [Module 3 – SQL](./Module3_SQL)
 4. [Module 4 – Python Fundamentals](./Module4_PythonFundamentals)
 5. [Module 5 – Python in Data Analytics](./Module5_PythonInDA)
+6. [Main Project – Data Analytics](./MainProject_DataAnalytics)
 
 ---
 
