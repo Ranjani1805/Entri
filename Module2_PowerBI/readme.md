@@ -10,7 +10,8 @@ This repository contains hands-on practice and projects in Power BI for data tra
 - Create relationships and data models for efficient reporting  
 
 **Files:**  
-- Power BI Assignment 1 - Data Transformation, Data Modeling.pbix`  
+- `Power BI Assignment 1 - Data Transformation, Data Modeling.pbix`
+- `Power BI Assignment 1 - Data Transformation and Data Modeling.pdf` 
 - [View on Google Drive](https://docs.google.com/document/d/1FtT4ZDizj4nnBAXXXKSa5Cc3DW75-7m1/edit)  
 
 ---
@@ -21,7 +22,8 @@ This repository contains hands-on practice and projects in Power BI for data tra
 - Create interactive visualizations and charts for insights  
 
 **Files:**  
-- `Power BI Assignment 2 - Dax and Data Visualization E-commerce Sales Analysis.pbix`  
+- `Power BI Assignment 2 - Dax and Data Visualization E-commerce Sales Analysis.pbix`
+- `Power BI Assignment 2 DAX ^0 Data Visualization.pdf`
 - [View on Google Drive](https://docs.google.com/document/d/18BQbDw-NEn_sC72A6cr4i3ZtAnbeL_wbz7dzF9Ilhz4/edit?tab=t.0)  
 
 ---
@@ -33,7 +35,8 @@ This repository contains hands-on practice and projects in Power BI for data tra
 - Build dashboards to track shipments, deliveries, and operational KPIs  
 
 **Files:**  
-- `Module End Assignment Power BI.pbix`  
+- `Module End Assignment Power BI.pbix`
+- `Power BI Module End Project - Logistics and Transportation.pdf`
 - [View on Google Drive](https://drive.google.com/file/d/1sVe7bL4T4t8N-rwXngzsBnbMlvRa-ETF/view)  
 
 ---
@@ -52,7 +55,8 @@ To provide actionable insights into student academic performance, attendance, an
 - Visualisations for exam scores, attendance, homework completion, and guardian engagement  
 
 **Files:**  
-- `StudentsPerformance_Dataset.pbix`, `Ranjani_DA_TN-FNB03_Report`  
+- `StudentsPerformance_Dataset.pbix`
+- `Ranjani_DA_TN-FNB03_Report.pdf`  
 - [View on Google Drive](https://drive.google.com/drive/folders/18sFMbi6O5dUzjFQpf3guXDqF8TGxAj-4)  
 
 **Conclusion:**  
